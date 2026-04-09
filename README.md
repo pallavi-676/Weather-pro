@@ -16,11 +16,6 @@ It provides real-time weather data with a clean UI and interactive background ef
 
 ---
 
-## 🖼 Preview
-
-![App Preview](https://via.placeholder.com/800x400.png?text=Weather+App+Preview)
-
----
 
 ## 🛠 Tech Stack
 
@@ -36,7 +31,7 @@ It provides real-time weather data with a clean UI and interactive background ef
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-pro.git
+git clone https://github.com/pallavi-676e/weather-pro.git
 ```
 
 2. Navigate to project folder:
