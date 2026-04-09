@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather Pro</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- 🌧 Rain Layer -->
+<div class="rain hidden"></div>
+
+<div class="app">
+  <h1>🌤 Weather Pro</h1>
+
+  <div class="search">
+    <input type="text" id="cityInput" placeholder="Search city...">
+    <button onclick="getWeather()">Search</button>
+  </div>
+
+  <div id="weatherCard" class="card hidden">
+    <h2 id="cityName"></h2>
+
+    <div id="icon" class="icon"></div>
+
+    <h1 id="temperature"></h1>
+    <p id="description"></p>
+
+    <div class="extra">
+      <div>💧 <span id="humidity"></span></div>
+      <div>🌬 <span id="wind"></span></div>
+    </div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
