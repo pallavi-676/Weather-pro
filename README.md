@@ -87,10 +87,5 @@ Use environment variables or regenerate your key before deploying.
 
 ## 👩‍💻 Author
 
-Your Name
+**Pallavi Sarovar**
 
----
-
-## ⭐ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
